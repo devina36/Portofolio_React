@@ -16,7 +16,7 @@ function Navbar() {
   return (
     <div>
       <nav className=" sticky top-0 z-30 bg-opacity-50 bg-bl backdrop-blur backdrop-filter">
-        <div className="max-w-7xl mx-auto lg:pt-12 md:pt-8 pt-6 pb-6 px-4 sm:px-6 lg:px-8">
+        <div className="max-w-7xl mx-auto md:pt-8 pt-6 pb-6 px-4 sm:px-6 lg:px-8">
           <div className="flex items-center justify-between h-16">
             <div className="flex items-center">
               <div className=" w-10 h-10 rounded bg-prl mr-8">

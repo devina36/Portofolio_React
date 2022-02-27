@@ -8,7 +8,7 @@ import './style.css';
 function Home() {
   return (
     <main>
-      <div className="max-w-7xl container mx-auto px-4 md:px-8 md:mt-10 mt-2">
+      <div className="max-w-7xl container mx-auto px-4 md:px-8 md:mt-4 mt-2">
         <div className="md:flex block items-center text-white mb-14 md:mb-0">
           <div className="bg-pattern bg-cover flex justify-center md:w-6/12 w-full">
             <img src={idea} alt="https://storyset.com/work" className="w-11/12" />

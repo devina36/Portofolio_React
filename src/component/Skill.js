@@ -6,7 +6,7 @@ import { SiVisualstudiocode, SiTailwindcss, SiBootstrap } from 'react-icons/si';
 function Skill() {
   return (
     <main>
-      <div className="container max-w-7xl mx-auto px-4 md:px-8 md:mt-10 mt-2 mb-24 md:mb-0">
+      <div className="container max-w-7xl mx-auto px-4 md:px-8 md:mt-10 mt-2 mb-24 md:mb-8">
         <h1
           className=" relative text-white font-bold text-nama leading-snug ml-5 xl:ml-0 duration-300 ease-linear
                             before:duration-300 
