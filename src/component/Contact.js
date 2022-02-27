@@ -1,5 +1,4 @@
 import React from 'react';
-import hand from '../img/Hand2.gif';
 import { AiOutlineMail, AiOutlinePhone } from 'react-icons/ai';
 
 function Contact() {
