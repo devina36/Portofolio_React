@@ -56,7 +56,7 @@ function Contact() {
                 type="email"
                 className="w-full text-white  h-10 bg-nb_2 rounded-md border border-white border-solid p-2"
               ></input>
-              <label className="block text-white text-xl opacity-60 mt-4">Email</label>
+              <label className="block text-white text-xl opacity-60 mt-4">Message</label>
               <textarea
                 type="email"
                 className="w-full text-white h-40 bg-nb_2 rounded-md border border-white border-solid p-2"
